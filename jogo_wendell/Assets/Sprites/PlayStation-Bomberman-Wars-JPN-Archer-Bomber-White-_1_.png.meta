@@ -1,0 +1,3887 @@
+fileFormatVersion: 2
+guid: 37fa19ea140fa4343ad15e91779fbe29
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 231
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45eccc917fc4387428c8ebe350c5b0ed
+      internalID: -383414892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 232
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ef38c894eaff843949645c55ad5ded
+      internalID: -253346362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 232
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3dcb59ce56e8948aaf3c671f3660ab
+      internalID: 379305917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__3
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 234
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3212f318ace955944bc9e0c80d3ce345
+      internalID: -1705292759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 233
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739738e5e900a2a438ecc46018ef14d3
+      internalID: -688967381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__5
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 232
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a316c2b8c66dbc6459f4612a70ef3bfa
+      internalID: -397599760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__6
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 233
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220d329fc40167442ac0a4ea00eb6b79
+      internalID: 1983184940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__7
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 234
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4f946c7033fd849ba8186f0596438c
+      internalID: 1625696305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__8
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 234
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1907bc43337885e4eb619308a4541e6f
+      internalID: 815973314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__9
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 233
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f91c81de00c6354c87ae4489fd548e5
+      internalID: 1198700385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__10
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 233
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e643b3f481ceaa4c822db22c0226d1e
+      internalID: -1021020562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__11
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 232
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8081aa24eceddce459dd4a710185552a
+      internalID: 2084397871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__12
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 233
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece1d04834111464995b1b892d475edb
+      internalID: -1965703334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__13
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 234
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c04fcbb22e0e1640b373008116d19f5
+      internalID: -826325093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__14
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 235
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab88ddd3deb95e48ac2c6e4123a7b8f
+      internalID: 2125714511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__15
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 235
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475eb0e0c6239f74fb16b58218c29dc7
+      internalID: -619094166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 193
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150ea07296328b84790ddb36a41c19c5
+      internalID: 1400809885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 192
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3b649c190ccbc44b7d55b8b71b74f1
+      internalID: 1911918828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__18
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 191
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de847f4979aa0a34d912328e56b055f2
+      internalID: 943545530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__19
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 192
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033c7eb295ea195448d3b28afa8c788f
+      internalID: 188020210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__20
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 193
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d792d498895eb640ad6afd2fc06386f
+      internalID: -2122244963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__21
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 192
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2d7aceee04c824899a5f4989363a01
+      internalID: 773266092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__22
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 192
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26826deeeae112a4d84eec46bfeccca0
+      internalID: -1111037874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__23
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 193
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c223290fa908cd499b7ecb6f0a95b61
+      internalID: 1339561736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__24
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 193
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a157080c3e7234742be5b808ed3c3098
+      internalID: 775433437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__25
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 193
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080a78e16d931f94aa282ea2e2b06741
+      internalID: 455575370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__26
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 193
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f35a624608fd0e47a783cf63288d80f
+      internalID: 986581660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__27
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 194
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601d3585242c1374498f33bb18752b43
+      internalID: -900495895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__28
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 194
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274164499281e34489903300accfbc1d
+      internalID: -296060071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__29
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 193
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afe382d7c9f5ba4d9b95e1557627fc0
+      internalID: 259517758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__30
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 191
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712aa43f2177c314799515222f49a4fa
+      internalID: -1326980808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__31
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 191
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3761d135fee02bd409687adb62cd1837
+      internalID: -1785165042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 156
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14b4f6af94eadc40959749e724875cc
+      internalID: -1058864837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__33
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 155
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02487ea1983ede84c8b277fb32bd405f
+      internalID: 1609125862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__34
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 154
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab23473fac35e82409579cb8715098e3
+      internalID: -286424001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__35
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 154
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd59e5d1fc0613e45988f570fee1e53e
+      internalID: 3913902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__36
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 154
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8541c39b7584c6c42bc393c6dd09c70e
+      internalID: 95874368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__37
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 154
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05425f207d9e76f4fa220b0acd273c33
+      internalID: 1728757112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__38
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 154
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7558c5ae1afb6d64887d4049463b23fd
+      internalID: 1416108198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__39
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 153
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519f3a6ae4c7a5d41a88b0ead5fa802c
+      internalID: 637256087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__40
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 153
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7909a7e0f2714e488c845c3f191ffea
+      internalID: -1588692720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__41
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 153
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d4e96ceddf4d447905b683fa802176
+      internalID: -1402125901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__42
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 153
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23baf856e0ce10c428803f94a73f5ba0
+      internalID: -861625148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__43
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 154
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56853300cf5262c489e5cd9c2740faa2
+      internalID: -252103457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__44
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 154
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3109b2235141dbf4f830e38da424b81d
+      internalID: -1117771205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__45
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 154
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9e9f5bf56c23d42b74f9a79d3cf42c
+      internalID: -2054804971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__46
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 154
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1ec1dc8928a2e4d848aeb97181e430
+      internalID: -1316394342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__47
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 154
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dcfb5edd78c46942a4f0953458540d8
+      internalID: 132640763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 113
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710b097a08ca4b54c9cbf55140715d56
+      internalID: -705490157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__49
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 114
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb6bd49c73ef984e94f51ac6bc544d2
+      internalID: 1998611834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__50
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 115
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ed513b9e629b947b38345c5d858aa8
+      internalID: -1034443034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__51
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 115
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec6e86a0666ad34684b3bdcbf16d16b
+      internalID: -1371326261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__52
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 113
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe64f57085f4eb4783051142bd224d6
+      internalID: 1909883222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__53
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 112
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57b535ddb5128a49a91e5943176c7ab
+      internalID: 2015263351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__54
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 113
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2266eb2d6e8327e45bcb028069ebaedc
+      internalID: -2051101613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__55
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 114
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db80521f936c0624eaf12c8eb9566e8e
+      internalID: -94843603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__56
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 114
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a453547f16a57140aeaa483cd3c8563
+      internalID: -1388502145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__57
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 113
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17973ae0ecccc3343b0e37100567c7d4
+      internalID: -1266262716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__58
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 113
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca84cbf3c58ba5418cc8d9c967749f8
+      internalID: 1031723293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__59
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 114
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eadbc8edae4df243a12f48c2e2c00a6
+      internalID: 699689373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__60
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 113
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84203b8fd3b7b4c4db1f9d0a031c948b
+      internalID: 1498352524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__61
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 113
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d3291f2c2ee5442927bed1d809fd88
+      internalID: -904724808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__62
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 117
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2549f06d9e77d724ebcadc16ecc0bd3b
+      internalID: 1594948171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__63
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 116
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6021987dfb1414aa4270a068928a23
+      internalID: 850778110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__64
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 74
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e4de3cbcb88c94c89fe7e27ce22cf8
+      internalID: 375855756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__65
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 74
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e6ffef4d422ec4eaf5b1b4af4a46cb
+      internalID: 1306299446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__66
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 74
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6f31a93cc3b2e46836c8047b4caa57
+      internalID: 1710517747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 74
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2aa8b90eeb77c342b0935d0860b4b64
+      internalID: -1093472969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__68
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 87
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed634034e9cf864db2bcbd8009c6d24
+      internalID: -1000119438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__69
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 95
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf956986b8ae63049bb63353515fc960
+      internalID: 1635720751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__70
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 103
+        width: 22
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7662ff0c5726740bec406beeb41f44
+      internalID: 496130668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__71
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 95
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab8d4a4ce7a7b94cab0db1279f89497
+      internalID: -615362865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__72
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 87
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5e919b6d7f7eb4bbccf8a0ac527cdd
+      internalID: -1888783690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__73
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 92
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c972c4d34c13fd46802c80f31a60e02
+      internalID: -930212981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__74
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 92
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8ecf0e5a52c444c92f7c1830ada3f3
+      internalID: -1842508314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__75
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 92
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951e739d933e85c47a165956b6ebb3bf
+      internalID: -1283705020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__76
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 74
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5643a9fc098f9e846a3480f96da3dee9
+      internalID: 28039113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__77
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 74
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9278ca2177cdea546857c712a47d6bf9
+      internalID: -1918886778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__78
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 74
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb768962634c0146b6b0f6563b4afac
+      internalID: 1738407798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__79
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 74
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e5bff932ea7894cbd6eff480291de7
+      internalID: 1194476061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__80
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 88
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab65494c1d8e1744197e83defbdaa0cd
+      internalID: 874050529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__81
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 96
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a815b61b34d3845a50ec164f74129d
+      internalID: -737836414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__82
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 104
+        width: 22
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766608efa7efb6240a348e90031db69b
+      internalID: 1711025593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__83
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 96
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6427a7ed2277c94695199867f2dfb48
+      internalID: -235624602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__84
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 88
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507ebce6c6ccc14419820480326e9db7
+      internalID: 1475761883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__85
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 93
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b129c9757215e3f40a84facc6910c8ed
+      internalID: 844448078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__86
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 93
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a38b276124d7a34b820ee7d3b14b30d
+      internalID: 1865941970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__87
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 93
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5a4806eec661d4085882f2e96676d1
+      internalID: -1434008674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__88
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 36
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5868765bb29131541b0f024f016bb13d
+      internalID: -426480089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__89
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 37
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788c0427e2652d44aaa3bb24bbc6f96e
+      internalID: 1201037604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__90
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 37
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da04c1f002715c64ebc74fa74fddf09c
+      internalID: -368549093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__91
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 36
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff868a795722c2e4eb38f6381a88e4bb
+      internalID: 1499921809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__92
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 50
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d7c77a17d32304e8cdbee13371814d
+      internalID: -879076960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__93
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 58
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008e967ba950eeb43bb49c9163029423
+      internalID: -380198309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__94
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 66
+        width: 22
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff863845441533b4791561bbc5ba6922
+      internalID: -1280946064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__95
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 58
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49abe8311e6dfda48b1696d88b99d867
+      internalID: 1664538493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__96
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 50
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b084e1f6f5b724d97e2b5e636569c8
+      internalID: 295199816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__97
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 55
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565907edfc9fff9449e295ef97bae30d
+      internalID: -1994495901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__98
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 55
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51394682e0f9f2b49b8ce374326b79ec
+      internalID: 1404430593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__99
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 55
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23fbf3649b847d24c991f8e16c3b2bf1
+      internalID: 676781641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__100
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 36
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938e623347e5ee0488b262b6bc847476
+      internalID: 585380250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__101
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 37
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b5702110eba2145bd027e4f39198d1
+      internalID: 764835946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__102
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 37
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f84e775494477a468db0657ec3bc85a
+      internalID: -1157124683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__103
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 36
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709004132cd9f44498af87ab557591d1
+      internalID: 1586352265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__104
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 48
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca691d3c208d6443997dcd63217ec81
+      internalID: -1962197300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__105
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 56
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18984fe35d1ad0644afcb416d2b001a9
+      internalID: 1169716353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__106
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 64
+        width: 22
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb14ffcd6d1d3a1418f1578abaddbda1
+      internalID: -1935968849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__107
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 56
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b41d3d777b0f64da8410cc10b22bf3
+      internalID: -1925564982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__108
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 48
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cfe5d9df9ab6344809c12b1f663146
+      internalID: -1759209545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__109
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 53
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa2bbbd4684a5c44b9c5eb43d5e57fc
+      internalID: 1635401999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__110
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 53
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9d19867cfb769459c240d478e8bb87
+      internalID: 1452290079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__111
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 53
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3701924b4ccbd4688aa60215892917
+      internalID: 253973070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__112
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8639f88d11975e745a9085e974fab29d
+      internalID: 1548546407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__113
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfed70bd062ed547b94f9c86d4ef488
+      internalID: 1723929862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__114
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 5
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb43d783d7468948b095b420db42d51
+      internalID: -1413175367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__115
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 4
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225ceb4c611fe60478d2a57673655f95
+      internalID: 2145862728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__116
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 25
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6006c176afb8d6340aa853e1b33c044f
+      internalID: 106752143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__117
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 25
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e3db5d5b43cf540ae4b29f51fd8045
+      internalID: 913778666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__118
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 25
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863320e0207879c48a847ef2c6b5fad4
+      internalID: 430175758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__119
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 25
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3114b54f39493494287e82a7cc98165c
+      internalID: 1737247698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__120
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 25
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537246618d0ef624685935fe8b5734f3
+      internalID: -1252378737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__121
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 25
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ffc1247602a194e970675d4f8ef07e
+      internalID: 1348354392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__122
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 25
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d1fe5011e50e74db90e4401cfad525
+      internalID: 623468822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__123
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 25
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942ec82cf84144343b1d3bfe20d892c7
+      internalID: 1423771727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__124
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 25
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453a49eeebdece74dba3827639fd996c
+      internalID: 1872134096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__125
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 25
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960ceb56bb98fc34184327137e0eede5
+      internalID: 1783696460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__126
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 25
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762ce45bc9c898c489978e7417fcd232
+      internalID: -2043909258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__127
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 25
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146cc3c80b120c54a93c001c49027e24
+      internalID: -1402911117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__128
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 25
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0cf2a07d2426f409818cc21ac078b9
+      internalID: 220411350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__129
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 25
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2663fe9f7e1794ca4932331e183ee3
+      internalID: -981961792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__130
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 25
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e290275a9bbd70c4badbed19b2501b78
+      internalID: 622713155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__131
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 25
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7986384008d2a4249a4c55265b46b857
+      internalID: -1762417797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__132
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 25
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7bc12622736b24dafa60c1edbf7052
+      internalID: 2059442560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__133
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 25
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83df320d489a534abf98fc90b671ac8
+      internalID: 1287636849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__134
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 25
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62666c5ca7e1dd6458ad29afa3f2fe2e
+      internalID: -1486272073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__135
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 25
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52d12bca9dcb8f44a3a48513d894af9
+      internalID: -1377962053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__136
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 12
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3f5f3e6f59cbd43a3537ad73f7793b
+      internalID: 956788725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__137
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 12
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611812b42b6761c4bb75fc5a3e333291
+      internalID: -18697928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__138
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 14
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdc85999fd360b4fb10ae6b4c64aa31
+      internalID: 1364173422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__139
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 14
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97210215f7d06cd46b797b3f47d5d009
+      internalID: 1962228256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__140
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 12
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023687aa43b78a447bd028ceaa5605a5
+      internalID: 338917821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__141
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 14
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5ca0f81ac3e4e45a3ee2a314f09e29
+      internalID: -1688142796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__142
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 14
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5a9d211496e9c4fbd21d9554971e26
+      internalID: -667492629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__143
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 12
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea057df4e1c8bb46881c12da2f43207
+      internalID: 767096746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__144
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 12
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fecf8010252e74483f6a1e98bda5c2
+      internalID: 98929123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__145
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 14
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d182ab677db854f94095aa11286025
+      internalID: -345047266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__146
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 12
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f47b52b821a3a4f9789add63af5994
+      internalID: 386946507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__147
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 14
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c6eef513ae0f143b4d7f65d42df94d
+      internalID: -549456096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__148
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 14
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a67ea4d5b2ca3429ae6932aa46d1dd
+      internalID: -1512997995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__149
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 14
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5dfb02bd103f84aa7a9929f4ccff0e
+      internalID: 1470607871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__150
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 14
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e236733314ffa8b44bdd6016e3804678
+      internalID: 1350074669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__151
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 14
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3751d4c45c32397489b1265dd26fd365
+      internalID: 1746143847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__152
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 14
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831fea4303d29e447b30923392e48818
+      internalID: -12340006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__153
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 14
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722b0f6f913c3e04f98bdb7281e8168d
+      internalID: 353956537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__154
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 14
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8bf89ad0fe8e44d8fbb60e1952bbc0
+      internalID: -992783211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__155
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 14
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184c4cee30d7eb04ea601685bfb5e5dd
+      internalID: -2116459837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__156
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 14
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c98cf628a7f2c468635053dec859ce
+      internalID: 277936973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__157
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 14
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce157590e5c1b304496776e55ee9011d
+      internalID: -1078415821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__158
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 14
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57f349e548653a4bbc9e45f2c3d9d22
+      internalID: -1468697006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__159
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 12
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbf56c174fe8e949b72206d185962a1
+      internalID: 260041426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__160
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 12
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23197b9ac31fbb408c8a8a434954b67
+      internalID: 1320641646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__161
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 14
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb0271da9233644e8026830cba9cf1b
+      internalID: -2042990896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__162
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 14
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abea2e77f549e548869c4e488ec54df
+      internalID: -801059622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__163
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 14
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e912a379d9f8e46a7d584b7eca3b80
+      internalID: 698620533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__164
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 16
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e68865cbc5f31d4d9dfe069d53e4baa
+      internalID: 984251473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__165
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 14
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65873e77b951ed449f9eb603decb69b
+      internalID: 586452783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__166
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 14
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc3039bd6551d040ba9f69030b66b10
+      internalID: -85555485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__167
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 14
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4d1c01ac55591458a831a71a991e9d
+      internalID: -1204072513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__168
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 14
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167e82108ccc5ea41b41f741289b6a45
+      internalID: -126631534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__169
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 4
+        width: 80
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507787d515984384e9cef5b243b6d230
+      internalID: -1354759614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__57: -1266262716
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__151: 1746143847
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__105: 1169716353
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__4: -688967381
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__126: -2043909258
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__146: 386946507
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__64: 375855756
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__130: 622713155
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__69: 1635720751
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__115: 2145862728
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__96: 295199816
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__136: 956788725
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__45: -2054804971
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__156: 277936973
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__144: 98929123
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__21: 773266092
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__71: -615362865
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__132: 2059442560
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__135: -1377962053
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__87: -1434008674
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__108: -1759209545
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__63: 850778110
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__56: -1388502145
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__52: 1909883222
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__5: -397599760
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__154: -992783211
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__61: -904724808
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__125: 1783696460
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__145: -345047266
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__19: 188020210
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__78: 1738407798
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__166: -85555485
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__58: 1031723293
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__22: -1111037874
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__164: 984251473
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__13: -826325093
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__122: 623468822
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__28: -296060071
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__32: -1058864837
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__26: 986581660
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__129: -981961792
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__133: 1287636849
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__103: 1586352265
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__119: 1737247698
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__75: -1283705020
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__110: 1452290079
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__141: -1688142796
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__29: 259517758
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__50: -1034443034
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__0: -383414892
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__9: 1198700385
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__127: -1402911117
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__101: 764835946
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__142: -667492629
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__43: -252103457
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__70: 496130668
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__89: 1201037604
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__157: -1078415821
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__37: 1728757112
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__79: 1194476061
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__14: 2125714511
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__84: 1475761883
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__143: 767096746
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__168: -126631534
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__161: -2042990896
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__93: -380198309
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__90: -368549093
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__169: -1354759614
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__20: -2122244963
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__148: -1512997995
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__46: -1316394342
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__10: -1021020562
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__99: 676781641
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__83: -235624602
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__113: 1723929862
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__1: -253346362
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__15: -619094166
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__67: -1093472969
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__68: -1000119438
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__54: -2051101613
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__11: 2084397871
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__163: 698620533
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__66: 1710517747
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__85: 844448078
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__35: 3913902
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__47: 132640763
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__31: -1785165042
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__12: -1965703334
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__27: -900495895
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__25: 455575370
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__40: -1588692720
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__91: 1499921809
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__118: 430175758
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__94: -1280946064
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__36: 95874368
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__137: -18697928
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__140: 338917821
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__88: -426480089
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__48: -705490157
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__65: 1306299446
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__114: -1413175367
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__53: 2015263351
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__80: 874050529
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__170: 298248655
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__60: 1498352524
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__6: 1983184940
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__81: -737836414
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__49: 1998611834
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__17: 1911918828
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__149: 1470607871
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__121: 1348354392
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__62: 1594948171
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__167: -1204072513
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__55: -94843603
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__92: -879076960
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__102: -1157124683
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__147: -549456096
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__33: 1609125862
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__134: -1486272073
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__152: -12340006
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__41: -1402125901
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__159: 260041426
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__3: -1705292759
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__124: 1872134096
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__162: -801059622
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__139: 1962228256
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__18: 943545530
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__155: -2116459837
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__73: -930212981
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__138: 1364173422
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__153: 353956537
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__74: -1842508314
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__111: 253973070
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__34: -286424001
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__104: -1962197300
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__165: 586452783
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__82: 1711025593
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__106: -1935968849
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__97: -1994495901
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__51: -1371326261
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__30: -1326980808
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__42: -861625148
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__44: -1117771205
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__86: 1865941970
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__38: 1416108198
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__109: 1635401999
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__23: 1339561736
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__117: 913778666
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__98: 1404430593
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__77: -1918886778
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__100: 585380250
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__2: 379305917
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__7: 1625696305
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__107: -1925564982
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__8: 815973314
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__16: 1400809885
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__39: 637256087
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__76: 28039113
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__72: -1888783690
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__158: -1468697006
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__95: 1664538493
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__123: 1423771727
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__112: 1548546407
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__116: 106752143
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__120: -1252378737
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__24: 775433437
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__128: 220411350
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__59: 699689373
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__131: -1762417797
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__150: 1350074669
+      PlayStation-Bomberman-Wars-JPN-Archer-Bomber-White-_1__160: 1320641646
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
