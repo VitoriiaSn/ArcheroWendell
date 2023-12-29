@@ -1,4 +1,3 @@
-
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -15,6 +14,8 @@ public class Player : MonoBehaviour
     private bool disparo;
     public float forcaDoDisparo;
     private bool flipX = false;
+    public bool podeAtirar = true;
+    public float tempoEntreTiros = 0.5f;
     
     void Update()
     {
@@ -23,17 +24,32 @@ public class Player : MonoBehaviour
 
         disparo = Input.GetKey(KeyCode.E);
         Atirar();
-    }
+    }       
 
     private void Atirar()
     {
-        if (disparo == true)
+        if (disparo && podeAtirar)
         {
             GameObject temp = Instantiate(tiroProjetil);
             temp.transform.position = arma.position;
-            temp.GetComponent<Rigidbody2D>().velocity = new Vector2(forcaDoDisparo, 0);
+            Rigidbody2D tempRb = temp.GetComponent<Rigidbody2D>();
+            Vector2 direcaoDoTiro = transform.up;  
+            tempRb.velocity = direcaoDoTiro * forcaDoDisparo;
+            
+            Destroy(temp.gameObject, 3f);
+            
+            podeAtirar = false;
+            StartCoroutine(Recarregar());
         }
     }
+
+    private IEnumerator Recarregar()
+    {
+        yield return new WaitForSeconds(tempoEntreTiros);
+        podeAtirar = true;
+    }
+
+
 
     void RotatePlayer()
     {
