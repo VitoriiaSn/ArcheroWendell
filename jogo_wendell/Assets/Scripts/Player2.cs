@@ -1,35 +1,51 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
+using Unity.Collections;
+using Unity.Mathematics;
 using UnityEngine;
 
 public class Player2 : MonoBehaviour
 {
-     public int vidaPlayer = 1;
-        
-        public float rotationSpeed = 100f;
-        public float movementSpeed = 5f;
-        public GameObject tiroProjetil;
-        public Transform arma;
-        private bool disparo;
-        public float forcaDoDisparo;
-        private bool flipX = false;
-        public bool podeAtirar = true;
-        public float tempoEntreTiros = 0.1f;
-        
+    public int vidaPlayer = 1;
+    
+    public float rotationSpeed = 100f;
+    public float movementSpeed = 5f;
+    public GameObject tiroProjetil;
+    public Transform arma;
+    public Animator animP1;
+    private bool disparo;
+    public float forcaDoDisparo;
+    private bool flipX = false;
+    public bool podeAtirar = true;
+    public float tempoEntreTiros = 0.1f;
 
-    // Update is called once per frame
+
+    private void Start()
+    {
+        animP1 = GetComponent<Animator>();
+    }
+
     void Update()
     {
         RotatePlayer();
         MovePlayer();
 
-        //disparo = Input.GetKey(KeyCode.P);
+        disparo = Input.GetKey(KeyCode.E);
         Atirar();
+        if( vidaPlayer <= 0)
+        {
+            animP1.SetTrigger("Die");
+            tempoEntreTiros = 10000000000000000000000000000f;
+            movementSpeed = 0f;
+            rotationSpeed = 0f;
+            
+        }
     }       
 
     private void Atirar()
     {
-        if (Input.GetKeyDown(KeyCode.P) && podeAtirar)
+        if (disparo && podeAtirar)
         {
             GameObject temp = Instantiate(tiroProjetil);
             temp.transform.position = arma.position;
@@ -50,23 +66,34 @@ public class Player2 : MonoBehaviour
         podeAtirar = true;
     }
     
-    public void Damage(int dmg)
+    public void Damage1(int dmg)
     {
         vidaPlayer -= dmg; 
         if( vidaPlayer <= 0)
         {
-            //chamar game overd
+            animP1.SetTrigger("Die");
+        }
+        
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        
+        if (collision.gameObject.CompareTag("bullet"))
+        {
+            vidaPlayer -= 1;
         }
     }
+
     void RotatePlayer()
     {
         float rotationInput = 0;
 
-        if (Input.GetKey("a"))
+        if (Input.GetKey(KeyCode.A))
         {
             rotationInput = 1;
         }
-        else if (Input.GetKey("d"))
+        if (Input.GetKey(KeyCode.D))
         {
             rotationInput = -1;
         }
@@ -79,18 +106,22 @@ public class Player2 : MonoBehaviour
     {
         float verticalInput = 0;
 
-        if (Input.GetKey("w"))
+        if (Input.GetKey(KeyCode.W))
         {
             verticalInput = 1;
         }
-        else if (Input.GetKey("s"))
+        else if (Input.GetKey(KeyCode.S))
         {
             verticalInput = -1;
         }
 
         transform.Translate(0, verticalInput * movementSpeed * Time.deltaTime, 0);
     }
-
-    
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag("bullet"))
+        {
+            vidaPlayer -= 1;
+        }
+    }
 }
-

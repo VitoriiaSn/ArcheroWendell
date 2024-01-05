@@ -8,6 +8,7 @@ TagManager:
   - bulletSpawnPoint
   - bullet
   - obstaculoLayer
+  - Player2
   layers:
   - Default
   - TransparentFX
