@@ -4,33 +4,80 @@ using UnityEngine;
 
 public class Enemy : MonoBehaviour
 {
-    public int vida;
+    public int vidaInimigo;
     private GameObject player;
     public GameObject particle;
-    // Start is called before the first frame update
+    public GameObject bulletPrefab;
+    public Transform bulletSpawnPoint;
+    public float distanciaParaParar = 2.0f;
+    public float rotacaoSpeed = 5.0f;
+    public LayerMask obstaculoLayer;
+
+    private float tempoParaProximoTiro = 0f;
+    public float intervaloDeTiro = 2f;
+
     void Start()
     {
-        vida = 10;
+        vidaInimigo = 1;
         player = GameObject.Find("Player");
     }
+    
 
-    // Update is called once per frame
     void Update()
     {
-        transform.position = Vector2.MoveTowards(transform.position, player.transform.position, 2f * Time.deltaTime);
-        if (vida <= 0)
+        float distancia = Vector2.Distance(transform.position, player.transform.position);
+
+        if (distancia > distanciaParaParar)
+        {
+            RotateTowardsPlayer();
+            MoveTowardsPlayer();
+        }
+
+        if (vidaInimigo <= 0)
         {
             Instantiate(particle, transform.position, Quaternion.identity);
             Destroy(gameObject);
         }
-    }
-    private void OnTriggerEnter2D (Collider2D collision)
-    {
-        if (collision.CompareTag("bullet"))
+
+        tempoParaProximoTiro -= Time.deltaTime;
+        if (tempoParaProximoTiro <= 0f)
         {
-            vida = vida - 10;
+            Shoot();
+            tempoParaProximoTiro = intervaloDeTiro;
+        }
+    }
+
+    private void RotateTowardsPlayer()
+    {
+        Vector2 direction = (player.transform.position - transform.position).normalized;
+        float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
+        Quaternion targetRotation = Quaternion.Euler(0, 0, angle);
+        transform.rotation = Quaternion.Slerp(transform.rotation, targetRotation, rotacaoSpeed * Time.deltaTime);
+    }
+
+    private void MoveTowardsPlayer()
+    {
+        Vector2 direction = (player.transform.position - transform.position).normalized;
+        RaycastHit2D hit = Physics2D.Raycast(transform.position, direction, distanciaParaParar, obstaculoLayer);
+
+        if (hit.collider == null)
+        {
+            transform.Translate(direction * 2f * Time.deltaTime);
+        }
+    }
+
+    private void Shoot()
+    {
+        // Instancia uma bala no ponto de disparo
+        Instantiate(bulletPrefab, bulletSpawnPoint.position, transform.rotation);
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("bullet"))
+        {
+            vidaInimigo--;
             Destroy(collision.gameObject);
         }
-        
     }
 }

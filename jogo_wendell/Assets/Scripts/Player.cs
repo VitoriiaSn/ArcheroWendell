@@ -7,6 +7,8 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
+    public int vidaPlayer = 1;
+    
     public float rotationSpeed = 100f;
     public float movementSpeed = 5f;
     public GameObject tiroProjetil;
@@ -15,7 +17,7 @@ public class Player : MonoBehaviour
     public float forcaDoDisparo;
     private bool flipX = false;
     public bool podeAtirar = true;
-    public float tempoEntreTiros = 0.5f;
+    public float tempoEntreTiros = 0.2f;
     
     void Update()
     {
@@ -48,9 +50,15 @@ public class Player : MonoBehaviour
         yield return new WaitForSeconds(tempoEntreTiros);
         podeAtirar = true;
     }
-
-
-
+    
+    public void Damage(int dmg)
+    {
+        vidaPlayer -= dmg; 
+        if( vidaPlayer <= 0)
+        {
+            // chamar game over
+        }
+    }
     void RotatePlayer()
     {
         float rotationInput = Input.GetAxis("Horizontal");

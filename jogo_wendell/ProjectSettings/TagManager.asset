@@ -5,11 +5,14 @@ TagManager:
   serializedVersion: 2
   tags:
   - tiro
+  - bulletSpawnPoint
+  - bullet
+  - obstaculoLayer
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - obstaculoLayer
   - Water
   - UI
   - 

@@ -12,10 +12,10 @@ GameObject:
   - component: {fileID: 4229840123607945022}
   - component: {fileID: 5016866392007408985}
   - component: {fileID: 894417287527060484}
-  - component: {fileID: 703020050921473451}
+  - component: {fileID: 5993672918296283193}
   m_Layer: 0
-  m_Name: tiro
-  m_TagString: tiro
+  m_Name: tiro inimigo
+  m_TagString: bullet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -134,7 +134,7 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!114 &703020050921473451
+--- !u!114 &5993672918296283193
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -146,4 +146,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 37f9075fed1146a4b8b7c89124b219b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rebotesRestantes: 3
+  forcaDoDisparo: 10
