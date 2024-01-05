@@ -1,36 +1,35 @@
-using System;
 using System.Collections;
 using System.Collections.Generic;
-using Unity.Collections;
-using Unity.Mathematics;
 using UnityEngine;
 
-public class Player : MonoBehaviour
+public class Player2 : MonoBehaviour
 {
-    public int vidaPlayer = 1;
-    
-    public float rotationSpeed = 100f;
-    public float movementSpeed = 5f;
-    public GameObject tiroProjetil;
-    public Transform arma;
-    private bool disparo;
-    public float forcaDoDisparo;
-    private bool flipX = false;
-    public bool podeAtirar = true;
-    public float tempoEntreTiros = 0.1f;
-    
+     public int vidaPlayer = 1;
+        
+        public float rotationSpeed = 100f;
+        public float movementSpeed = 5f;
+        public GameObject tiroProjetil;
+        public Transform arma;
+        private bool disparo;
+        public float forcaDoDisparo;
+        private bool flipX = false;
+        public bool podeAtirar = true;
+        public float tempoEntreTiros = 0.1f;
+        
+
+    // Update is called once per frame
     void Update()
     {
         RotatePlayer();
         MovePlayer();
 
-        disparo = Input.GetKey(KeyCode.E);
+        //disparo = Input.GetKey(KeyCode.P);
         Atirar();
     }       
 
     private void Atirar()
     {
-        if (disparo && podeAtirar)
+        if (Input.GetKeyDown(KeyCode.P) && podeAtirar)
         {
             GameObject temp = Instantiate(tiroProjetil);
             temp.transform.position = arma.position;
@@ -56,18 +55,42 @@ public class Player : MonoBehaviour
         vidaPlayer -= dmg; 
         if( vidaPlayer <= 0)
         {
-            // chamar game over
+            //chamar game overd
         }
     }
     void RotatePlayer()
     {
-        float rotationInput = Input.GetAxis("Horizontal");
+        float rotationInput = 0;
+
+        if (Input.GetKey("a"))
+        {
+            rotationInput = 1;
+        }
+        else if (Input.GetKey("d"))
+        {
+            rotationInput = -1;
+        }
+
         transform.Rotate(0, 0, -rotationInput * rotationSpeed * Time.deltaTime);
     }
 
+
     void MovePlayer()
     {
-        float verticalInput = Input.GetAxis("Vertical");
+        float verticalInput = 0;
+
+        if (Input.GetKey("w"))
+        {
+            verticalInput = 1;
+        }
+        else if (Input.GetKey("s"))
+        {
+            verticalInput = -1;
+        }
+
         transform.Translate(0, verticalInput * movementSpeed * Time.deltaTime, 0);
     }
+
+    
 }
+
